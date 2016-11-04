@@ -110,3 +110,4 @@ if ! shopt -oq posix; then
 fi
 
 alias ll="ls -l"
+alias olaboga="git add .; git commit -m \"Nic\""
